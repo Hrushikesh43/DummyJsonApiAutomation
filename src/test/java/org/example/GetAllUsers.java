@@ -14,6 +14,8 @@ import static io.restassured.RestAssured.*;
 This Test case should cover :
 1. Get all the users and from it get first users details
 2. Use that user detail and login with that user
+3. When login with the user you get the response and contains auth token use that token to
+get current authenticated user
  */
 
 public class GetAllUsers {
