@@ -1,0 +1,34 @@
+[INFO ] 2025-03-27 21:27:42.419 [main] Logging - This is info
+[ERROR] 2025-03-27 21:27:42.420 [main] Logging - This is error
+[INFO ] 2025-03-27 21:53:54.584 [main] Logging - Username is :emilys
+[INFO ] 2025-03-27 21:53:54.585 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-27 21:58:25.501 [main] Logging - Username is :emilys
+[INFO ] 2025-03-27 21:58:25.501 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-27 22:13:44.880 [main] Logging - Username is :emilys
+[INFO ] 2025-03-27 22:13:44.880 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-27 22:14:58.526 [main] Logging - Username is :emilys
+[INFO ] 2025-03-27 22:14:58.526 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 07:43:15.789 [main] Logging - Username is :emilys
+[INFO ] 2025-03-28 07:43:15.790 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 07:49:24.454 [main] Logging - Username is :emilys
+[INFO ] 2025-03-28 07:49:24.454 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 07:51:28.368 [main] Logging - Username is :emilys
+[INFO ] 2025-03-28 07:51:28.368 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 07:52:26.376 [main] Logging - User request :{"password":"emilyspass","username":"emilys"}
+[INFO ] 2025-03-28 07:55:03.230 [main] Logging - Username is :emilys
+[INFO ] 2025-03-28 07:55:03.231 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 07:55:09.244 [main] Logging - User request :{"password":"emilyspass","username":"emilys"}
+[INFO ] 2025-03-28 07:56:56.053 [main] Logging - Username is :emilys
+[INFO ] 2025-03-28 07:56:56.054 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 07:57:02.067 [main] Logging - User request :{"password":"emilyspass","username":"emilys"}
+[INFO ] 2025-03-28 07:57:02.761 [main] Logging - The access token for login user is :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NDMxMjg4MjIsImV4cCI6MTc0MzEzMjQyMn0.fcpPvsxJ7uWbGGtSvebTAyCyUmOodBNlfSHtntgbQKg
+[INFO ] 2025-03-28 08:12:22.424 [main] Logging - Username is :emilys
+[INFO ] 2025-03-28 08:12:22.424 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 08:12:28.436 [main] Logging - User request :{"password":"emilyspass","username":"emilys"}
+[INFO ] 2025-03-28 08:12:29.135 [main] Logging - The access token for login user is :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NDMxMjk3NDksImV4cCI6MTc0MzEzMzM0OX0.ROfCxTXd09rLB0RpRR3IDLX-bqUasNX6ZCK6cPcgbM8
+[INFO ] 2025-03-28 08:12:29.860 [main] Logging - io.restassured.internal.RestAssuredResponseImpl@251a90ce
+[INFO ] 2025-03-28 08:13:27.454 [main] Logging - Username is :emilys
+[INFO ] 2025-03-28 08:13:27.455 [main] Logging - Password is : emilyspass
+[INFO ] 2025-03-28 08:13:33.471 [main] Logging - User request :{"password":"emilyspass","username":"emilys"}
+[INFO ] 2025-03-28 08:13:34.195 [main] Logging - The access token for login user is :eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJlbWlseXMiLCJlbWFpbCI6ImVtaWx5LmpvaG5zb25AeC5kdW1teWpzb24uY29tIiwiZmlyc3ROYW1lIjoiRW1pbHkiLCJsYXN0TmFtZSI6IkpvaG5zb24iLCJnZW5kZXIiOiJmZW1hbGUiLCJpbWFnZSI6Imh0dHBzOi8vZHVtbXlqc29uLmNvbS9pY29uL2VtaWx5cy8xMjgiLCJpYXQiOjE3NDMxMjk4MTQsImV4cCI6MTc0MzEzMzQxNH0.4utisC0uIgVxnpUGuRCKJCCt3ghIIONVRhQorA90YJ4
+[INFO ] 2025-03-28 08:13:34.844 [main] Logging - {"id":1,"firstName":"Emily","lastName":"Johnson","maidenName":"Smith","age":28,"gender":"female","email":"emily.johnson@x.dummyjson.com","phone":"+81 965-431-3024","username":"emilys","password":"emilyspass","birthDate":"1996-5-30","image":"https://dummyjson.com/icon/emilys/128","bloodGroup":"O-","height":193.24,"weight":63.16,"eyeColor":"Green","hair":{"color":"Brown","type":"Curly"},"ip":"42.48.100.32","address":{"address":"626 Main Street","city":"Phoenix","state":"Mississippi","stateCode":"MS","postalCode":"29112","coordinates":{"lat":-77.16213,"lng":-92.084824},"country":"United States"},"macAddress":"47:fa:41:18:ec:eb","university":"University of Wisconsin--Madison","bank":{"cardExpire":"03/26","cardNumber":"9289760655481815","cardType":"Elo","currency":"CNY","iban":"YPUXISOBI7TTHPK2BR3HAIXL"},"company":{"department":"Engineering","name":"Dooley, Kozey and Cronin","title":"Sales Manager","address":{"address":"263 Tenth Street","city":"San Francisco","state":"Wisconsin","stateCode":"WI","postalCode":"37657","coordinates":{"lat":71.814525,"lng":-161.150263},"country":"United States"}},"ein":"977-175","ssn":"900-590-289","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36","crypto":{"coin":"Bitcoin","wallet":"0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a","network":"Ethereum (ERC20)"},"role":"admin"}
